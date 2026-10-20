@@ -47,6 +47,10 @@ npx netlify dev
 
 ### Firebase email verification and authentication
 
+###ADMIN LOGIN DETAILS 
+email=liebeplayzz@gmail.com
+password=78305234
+###important == login u have to verify your orignal email and please check your spam folder for verifiction link ###
 Firebase Authentication handles email/password sign-up and sign-in. New users receive Firebase's email verification link; unverified accounts cannot sign in. Supabase Auth is not used by the frontend.
 
 1. Open the [Firebase Console](https://console.firebase.google.com/) and create a Firebase project.
